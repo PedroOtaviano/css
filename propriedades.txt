@@ -1,0 +1,23 @@
+
+Propriedades comuns em CSS:
+
+• color: Define a cor do texto.
+
+• font-family: Define a família de fonte a ser usada no texto. 
+
+• font-size: Define o tamanho da fonte do texto. 
+
+• background-color: Define a cor de fundo de um elemento. 
+
+• width e height: Definem a largura e a altura de um elemento, respectivamente. 
+
+• margin: Define as margens externas de um elemento. 
+
+• padding: Define o preenchimento interno de um elemento. 
+
+• border: Define a borda de um elemento. 
+
+• display: Define como um elemento é exibido (bloco, em linha, em linha-bloco, etc.).
+
+• position: Define o tipo de posicionamento de um elemento (estático, relativo, absoluto, fixo).
+
